@@ -1,5 +1,4 @@
 import React from "react";
-import FeedbackCount from "./FeedbackCount";
 import { BiCaretUp } from "react-icons/bi";
 
 interface feedbackItemProps {
