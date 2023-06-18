@@ -14,7 +14,7 @@ const page = () => {
   return (
     <div className="  lg:w-[70%] h-screen mx-auto flex items-center justify-center">
       <FeedbackForm />
-      <div className="w-[90%] lg:w-[60%] min-h-screen mt-32  flex flex-col gap-5 lg:ml-10 mx-auto">
+      <div className="w-[90%] lg:w-[60%] min-h-screen mt-36  flex flex-col gap-5 lg:gap-7 lg:ml-10 mx-auto">
         <span className="flex items-center gap-3">
           <h2 className="lg:text-lg"> Showing posts in</h2>
           <select className="outline-none">
